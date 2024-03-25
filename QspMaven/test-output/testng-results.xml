@@ -1,23 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
-    <line>
-      <![CDATA[testCreateCustomer]]>
-    </line>
   </reporter-output>
-  <suite started-at="2023-06-06T05:39:48Z" name="Default suite" finished-at="2023-06-06T05:39:48Z" duration-ms="36">
+  <suite started-at="2023-06-27T10:37:14Z" name="Default suite" finished-at="2023-06-27T10:37:14Z" duration-ms="49">
     <groups>
     </groups>
-    <test started-at="2023-06-06T05:39:48Z" name="Default test" finished-at="2023-06-06T05:39:48Z" duration-ms="36">
-      <class name="com.acttime.testscript.CreateCustomer">
-        <test-method signature="testCreateCustomer()[pri:0, instance:com.acttime.testscript.CreateCustomer@2eae8e6e]" started-at="2023-06-06T05:39:48Z" name="testCreateCustomer" finished-at="2023-06-06T05:39:48Z" duration-ms="13" status="PASS">
+    <test started-at="2023-06-27T10:37:14Z" name="Default test" finished-at="2023-06-27T10:37:14Z" duration-ms="49">
+      <class name="com.acttime.testscript.ReadCsvData">
+        <test-method signature="testReadCsvData()[pri:0, instance:com.acttime.testscript.ReadCsvData@543295b0]" started-at="2023-06-27T10:37:14Z" name="testReadCsvData" finished-at="2023-06-27T10:37:14Z" duration-ms="28" status="PASS">
           <reporter-output>
-            <line>
-              <![CDATA[testCreateCustomer]]>
-            </line>
           </reporter-output>
-        </test-method> <!-- testCreateCustomer -->
-      </class> <!-- com.acttime.testscript.CreateCustomer -->
+        </test-method> <!-- testReadCsvData -->
+      </class> <!-- com.acttime.testscript.ReadCsvData -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
